@@ -106,7 +106,7 @@
     "prettier": "3.0.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "semantic-release": "^22.0.12",
-    "storybook": "^8.6.12",
+    "storybook": "^8.6.19",
     "tailwindcss": "^4.1.5",
     "ts-jest": "^29.3.2",
     "tsc": "^2.0.4",
